@@ -4,7 +4,12 @@
 
 The **Multiple Disease Analyzer** is a Python-based machine learning project designed to analyze and predict various diseases based on input data. This tool leverages **machine learning** and **deep learning** models with an interactive web application using **Streamlit**.
 
+![Alt Text](image.png)
+
 ---
+
+
+
 
 ## ✨ Features
 
